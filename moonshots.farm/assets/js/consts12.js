@@ -8,7 +8,7 @@ BONES_VESTING = {address: "0x099b2f7ee56d04cfa08b23a4da6504f791b8107a"}; // LIVE
 WBNB = {address: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"};
 BUSD = {address: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"};
 CAKE = {address: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"};
-BANANA = {address: "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"};
+BANANA = {address: "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd"};
 BSW = {address: "0x965f527d9159dce6288a2219db51fc6eef120dd1"};
 BONES = {address: "0x08426874d46f90e5e527604fa5e3e30486770eb3"}; // LIVE
 
