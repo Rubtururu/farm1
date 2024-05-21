@@ -10,7 +10,7 @@ BUSD = {address: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"};
 CAKE = {address: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"};
 BANANA = {address: "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd"};
 BSW = {address: "0x965f527d9159dce6288a2219db51fc6eef120dd1"};
-BONES = {address: "0x08426874d46f90e5e527604fa5e3e30486770eb3"}; // LIVE
+BONES = {address: "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd"}; // LIVE
 
 BONES_STAKING = {token: BONES.address, farm: "0x57d3ac2c209d9de02a80700c1d1c2ca4bc029b04"}; // LIVE
 CAKE_VAULT = {token: CAKE.address, farm: "0x55e8046339730992022776cdc1d4c7426def05e4"}; // LIVE
