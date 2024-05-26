@@ -14,10 +14,10 @@ BONES = {address: "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd"}; // LIVE
 
 BONES_STAKING = {token: BONES.address, farm: "0x57d3ac2c209d9de02a80700c1d1c2ca4bc029b04"}; // LIVE
 CAKE_VAULT = {token: CAKE.address, farm: "0x55e8046339730992022776cdc1d4c7426def05e4"}; // LIVE
-BANANA_VAULT = {token: BANANA.address, farm: "0x9dab4a72f4d01957d5a728361b58dfb9da5e3320"}; // LIVE
+BANANA_VAULT = {token: BANANA.address, farm: "0xAE07CF6e95FF50608cCf5Cc09f2c2cbd98D8160E"}; // LIVE
 BISWAP_VAULT = {token: BSW.address, farm: "0x15d4daead3f9e3acd9fee82802177f337ef1e2fa"}; // LIVE
 CAKE_VAULT_TWO = {token: CAKE.address, farm: "0xB77836772abD93f40FF9ea0a744A76630272952A"}; // LIVE
-BANANA_VAULT_TWO = {token: BANANA.address, farm: "0x11C23d909E2813c0F2147bC428a47E1b6fed871C"}; // LIVE
+BANANA_VAULT_TWO = {token: BANANA.address, farm: "0xAE07CF6e95FF50608cCf5Cc09f2c2cbd98D8160E"}; // LIVE
 
 FARM_FOMO = {fomo: "0x981c5adabcc94dca20c6b5bcf0616f3533ca0112", cakeFarm: "0x041a8f3b81e40ca958aa78e3746591cb7744f2d8"}; // LIVE
 
